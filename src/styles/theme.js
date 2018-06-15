@@ -1,6 +1,7 @@
 import { createMuiTheme } from "material-ui/styles";
 import Color from "color";
 import colors from "./colors";
+import typography from "../utils/typography";
 
 const theme = createMuiTheme({
   base: {
@@ -52,7 +53,7 @@ const theme = createMuiTheme({
     sizes: {
       closedHeight: 80,
       postsListItemH1Font: 1.3,
-      postsListItemH2Font: 1.1,
+      postsListItemH2Font: 0.8,
       fontIncraseForM: 1.15,
       fontIncraseForL: 1.3
     }
@@ -60,12 +61,12 @@ const theme = createMuiTheme({
   main: {
     colors: {
       background: colors.background,
-      title: colors.gray,
-      subTitle: colors.gray,
-      meta: colors.gray,
+      title: colors.black,
+      subTitle: colors.black,
+      meta: colors.black,
       content: colors.dark,
-      footer: colors.gray,
-      contentHeading: colors.gray,
+      footer: colors.black,
+      contentHeading: colors.black,
       blockquoteFrame: colors.lightGray,
       link: colors.accent,
       linkHover: colors.dark,
@@ -100,8 +101,8 @@ const theme = createMuiTheme({
         lineHeight: 1.6
       },
       contentHeading: {
-        h2Size: 1.5,
-        h3Size: 1.3,
+        h2Size: 1.3,
+        h3Size: 1.1,
         weight: 600,
         lineHeight: 1.3
       },

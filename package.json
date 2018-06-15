@@ -50,6 +50,7 @@
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-plugin-sharp": "^1.6.44",
     "gatsby-plugin-sitemap": "^1.2.23",
+    "gatsby-plugin-typography": "^1.7.18",
     "gatsby-remark-copy-linked-files": "^1.5.32",
     "gatsby-remark-external-links": "^0.0.4",
     "gatsby-remark-images": "^1.5.63",
@@ -78,6 +79,8 @@
     "rebound": "^0.1.0",
     "redux": "^4.0.0",
     "redux-devtools-extension": "^2.13.2",
-    "screenfull": "^3.3.2"
+    "screenfull": "^3.3.2",
+    "typography-theme-bootstrap": "^0.16.7",
+    "typography-theme-lawton": "^0.15.10"
   }
 }
