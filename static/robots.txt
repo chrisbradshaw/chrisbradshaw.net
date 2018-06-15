@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://chrisbradshaw.net/sitemap.xml
