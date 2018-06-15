@@ -7,9 +7,9 @@ cover: old-portfolio-cover.jpg
 
 ![old portfolio](./old-portfolio.jpg)
 
-> "Your second app will certaintly be better than your first app. So you might as well get your first app over with." -Instructor, first programming class I took
+> "Your second app will certaintly be better than your first app. So you might as well get your first app over with." -Instructor, my first programming class
 
-A lot has changed since the last time I wrote a blog post. React.js took over the world, jQuery died a horrible death and I finally switched to VSCode from Sublime Text despite having at one time spent $79 for a ST2 license.
+A lot has changed since the last time I wrote a blog post. React.js took over the world, jQuery died a horrible death and I finally switched to VSCode despite having at one time spent $79 for a Sublime Text 2 license.
 
 This is probably the 3rd version of an update portfolio site that I've built. I feel the strong desire to improve upon previous work. So even though my last site was ~3 years old (85 in portfolio years), I've been putting off changing it. Some reasons I should have changed it sooner:
 
