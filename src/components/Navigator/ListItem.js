@@ -7,6 +7,7 @@ import LazyLoad from "react-lazyload";
 const styles = theme => ({
   listItem: {
     margin: "0 0 .7em 0",
+    borderBottom: "1px solid #f4f3f1",
     transition: "height 1s",
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       margin: "0 0 1.5rem 0"
