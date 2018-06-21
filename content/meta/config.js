@@ -6,7 +6,7 @@ module.exports = {
   siteDescription: "Javascript Front End Development Blog.",
   siteUrl: "https://chrisbradshaw.net",
   pathPrefix: "",
-  siteImage: "preview.jpg",
+  siteImage: "http://www.chrisbradshaw.net/static/avatar.794e757b.jpg",
   siteLanguage: "en",
   // author
   authorName: "Chris Bradshaw",
