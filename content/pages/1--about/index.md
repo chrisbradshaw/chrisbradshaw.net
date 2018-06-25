@@ -23,7 +23,7 @@ I'm currently pursuing a full time job as a Front End Developer in New York City
 
 ### Skillset
 
-* Javascript/ES6
+* Javascript/ES2017
 * React.js/Redux
 * Webpack
 * NPM/Yarn/Babel
