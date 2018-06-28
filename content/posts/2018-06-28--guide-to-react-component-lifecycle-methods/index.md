@@ -1,5 +1,5 @@
 ---
-title: BlogDidMount - 2018 Guide to React Component Life Cycle Methods
+title: BlogDidMount - 2018 Guide to React Component Lifecycle Methods
 subTitle: The Definitive Guide
 category: "React.js"
 cover: component-lifecycle-cover.jpg
@@ -95,7 +95,7 @@ _If you need to interact with the browser, use componentDidMount instead - keep 
 
 <h3>Soon to be deprecated React Lifecycle methods</h3>
 
-10. **UNSAFE_componentWillMount()** - This method runs right before the component gets mounted. This one is not too common to use, but you will want to use it any time you want to ensure code to run both in node and in the browser.
+10. **UNSAFE_componentWillMount()** - This method runs right before the component gets mounted. Use componentDidMount() instead.
 
 11. **UNSAFE_componentWillReceiveProps()** - This method runs every time the React component receives new/different props from the parent. If some of the state you keep in your component is derived from the parent props, this is where you would take care of that. What if you keep a list of actors in a movie as state that you request from an API? If your parent passes you a new movie, you need to react to that and get new actors for the new movie. This would be an example of where to use this method. Use [componentDidUpdate](https://reactjs.org/docs/react-component.html#componentdidupdate) lifecycle instead.
 
