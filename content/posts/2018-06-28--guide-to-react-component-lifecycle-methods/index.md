@@ -5,6 +5,8 @@ category: "React.js"
 cover: component-lifecycle-cover.jpg
 ---
 
+[View this post on Medium](https://medium.com/@_ChrisBradshaw/blogdidmount-2018-guide-to-react-component-lifecycle-methods-1614e0bbe80a)
+
 ![React life-cycle hooks](./react-component-lifecycles.jpg)
 
 **_Source:_** <http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/>
