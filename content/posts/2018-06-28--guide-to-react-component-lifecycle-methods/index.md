@@ -1,5 +1,5 @@
 ---
-title: BlogDidMount - 2018 Guide to React Component Lifecycle Methods
+title: blogDidMount - 2018 Guide to React Component Lifecycle Methods
 subTitle: The Definitive Guide
 category: "React.js"
 cover: component-lifecycle-cover.jpg
