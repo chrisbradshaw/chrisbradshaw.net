@@ -1,7 +1,7 @@
 ---
 title: Conditionally Rendering React Components 
-subTitle: Part 1
-category: "Javascript, React.js"
+subTitle: What condition your condition is in
+category: "React.js"
 cover: conditionally-render-cover.jpg
 ---
 
