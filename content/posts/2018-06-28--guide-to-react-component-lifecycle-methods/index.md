@@ -13,8 +13,8 @@ cover: component-lifecycle-cover.jpg
 
 <h4>Why use component lifecycle methods:</h4>
 
-* AJAX functionality
-* Performance Enhancement (free up resources taken by the components when they are destroyed)
+- AJAX functionality
+- Performance Enhancement (free up resources taken by the components when they are destroyed)
 
 <iframe src="https://giphy.com/embed/Wde8IvMfYILSM" width="480" height="333" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disney-the-lion-king-circle-of-life-Wde8IvMfYILSM">via GIPHY</a></p>
 
@@ -95,9 +95,9 @@ _**Note:** If you need to interact with the browser, use componentDidMount inste
 
 <h3>Soon to be deprecated React Lifecycle methods</h3>
 
-10. **UNSAFE_componentWillMount()** - This method runs right before the component gets mounted. Use componentDidMount() instead.
+10. **UNSAFE_componentWillMount()** - this method runs right before the component gets mounted. Use componentDidMount() instead.
 
-11. **UNSAFE_componentWillReceiveProps()** - This method runs every time the React component receives new/different props from the parent. If some of the state you keep in your component is derived from the parent props, this is where you would take care of that. What if you keep a list of actors in a movie as state that you request from an API? If your parent passes you a new movie, you need to react to that and get new actors for the new movie. This would be an example of where to use this method. Use [componentDidUpdate](https://reactjs.org/docs/react-component.html#componentdidupdate) lifecycle instead.
+11. **UNSAFE_componentWillReceiveProps()** - this method runs every time the React component receives new/different props from the parent. If some of the state you keep in your component is derived from the parent props, this is where you would take care of that. What if you keep a list of actors in a movie as state that you request from an API? If your parent passes you a new movie, you need to react to that and get new actors for the new movie. This would be an example of where to use this method. Use [componentDidUpdate](https://reactjs.org/docs/react-component.html#componentdidupdate) lifecycle instead.
 
 <h3>Sources:</h3>
 

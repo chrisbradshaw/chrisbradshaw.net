@@ -1,6 +1,6 @@
 ---
 title: Conditionally Rendering React Components 
-subTitle: What condition your condition is in
+subTitle: What Condition Your Condition Is In
 category: "React.js"
 cover: conditionally-render-cover.jpg
 ---
