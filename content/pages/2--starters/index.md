@@ -5,6 +5,14 @@ menuTitle: Portfolio
 
 Check back here for updates on my latest work!
 
+### Tetrominos
+
+A tetris clone built with React and Redux
+
+[Live](https://tetrominos.netlify.com/) | [Github repo](https://github.com/chrisbradshaw/tetrominos)
+
+![Tetrominos](https://res.cloudinary.com/dgxvjwyhm/image/upload/v1530912613/tetrominos-preview.jpg)
+
 ### Highlight Reel
 
 Responsive React.js app that renders and searches movies from the MovieDB API
