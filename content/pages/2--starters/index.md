@@ -3,6 +3,11 @@ title: Portfolio
 menuTitle: Portfolio
 ---
 
+[Resume](https://drive.google.com/open?id=1Ab7ZvsIhtrPPJpLXFBpMQu8xhkttwAUN) |
+[Github](https://github.com/chrisbradshaw) |
+[Stack Overflow](https://stackoverflow.com/users/8821119/chris-bradshaw) |
+[About](https://www.chrisbradshaw.net/about/)
+
 Check back here for updates on my latest work!
 
 ### Tetrominos

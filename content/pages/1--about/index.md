@@ -2,7 +2,7 @@
 title: About
 ---
 
-Resume |
+[Resume](https://drive.google.com/open?id=1Ab7ZvsIhtrPPJpLXFBpMQu8xhkttwAUN) |
 [Github](https://github.com/chrisbradshaw) |
 [Stack Overflow](https://stackoverflow.com/users/8821119/chris-bradshaw) |
 [Portfolio](https://www.chrisbradshaw.net/starters/)
@@ -23,13 +23,13 @@ I'm currently pursuing a full time job as a Front End Developer in New York City
 
 ### Skillset
 
-* Javascript/ES6+
-* React.js/Redux
-* Webpack
-* NPM/Yarn/Babel
-* GraphQL
-* CSS/JSS/Styled Components
-* Ruby on Rails/PostgreSQL
-* Git/BASH/JIRA
-* Photoshop
-* Nginx/HTML/Wordpress/SEO
+- Javascript/ES6+
+- React.js/Redux
+- Webpack
+- NPM/Yarn/Babel
+- GraphQL
+- CSS/JSS/Styled Components
+- Ruby on Rails/PostgreSQL
+- Git/BASH/JIRA
+- Photoshop
+- Nginx/HTML/Wordpress/SEO
