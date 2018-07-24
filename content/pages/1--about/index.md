@@ -4,7 +4,6 @@ title: About
 
 [Resume](https://drive.google.com/open?id=1Ab7ZvsIhtrPPJpLXFBpMQu8xhkttwAUN) |
 [Github](https://github.com/chrisbradshaw) |
-[Stack Overflow](https://stackoverflow.com/users/8821119/chris-bradshaw) |
 [Portfolio](https://www.chrisbradshaw.net/starters/)
 
 ### Bio
