@@ -9,7 +9,7 @@ cover: clone-cover.jpg
 
 <iframe src="https://giphy.com/embed/3ohzdQhmr2YrxHT45y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/alroker-al-roker-3ohzdQhmr2YrxHT45y">via GIPHY</a></p>
 
-<h2>Attack of the Clones: When to use JavaScript Object.assign vs spread operator</h2>
+<h2>Attack of the Clones: When to use JavaScript Object.assign()</h2>
 
 Traditionally making a clone of an object in JavaScript has not been simple, nor straightforward. You will run into the problem of erroneously picking up attributes from the object's prototype that should be left in the prototype and not copied to the new instance.
 
@@ -71,7 +71,7 @@ console.log("Original Object", obj.a.b.c);
 
 <h4>Alternatives</h4>
 
-<p>So by now you are probably wondering, "Chris, what are some possibly alternatives to Object.assign()? The syntax is absolutely phenomenal, but sometimes I need a deeper clone than simply one level deep."<p>
+<p>So by now you are probably wondering, "Chris, what are some possible alternatives to Object.assign()? The syntax is absolutely phenomenal, but sometimes I need a deeper clone than simply one level deep."<p>
 
 <p>Don't worry. I got you.</p>
 
