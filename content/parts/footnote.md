@@ -2,4 +2,4 @@
 title: footnote
 ---
 
-* © Chris Bradshaw 2018
+- © Chris Bradshaw 2019
