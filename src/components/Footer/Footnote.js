@@ -6,6 +6,7 @@ const styles = theme => ({
   container: {
     fontSize: `${theme.footer.fonts.footnote.size}em`,
     lineHeight: theme.footer.fonts.footnote.lineHeight,
+    textAlign: "center",
     color: theme.footer.colors.text,
     "& a": {
       color: theme.footer.colors.link,
@@ -29,7 +30,7 @@ const styles = theme => ({
 });
 
 const Footnote = ({ classes, content }) => {
-  return <div className={classes.container} dangerouslySetInnerHTML={{ __html: content }} />;
+  return <div className={classes.container}>© Chris Bradshaw {new Date().getFullYear()}</div>;
 };
 
 Footnote.propTypes = {

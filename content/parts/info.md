@@ -2,4 +2,4 @@
 title: info
 ---
 
-I'm Chris, a front-end web developer from New York City
+I'm Chris, a web developer from New York City
