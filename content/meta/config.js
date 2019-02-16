@@ -1,9 +1,9 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "Chris Bradshaw - NYC Front End Web Developer", // <title>
+  siteTitle: "Chris Bradshaw - NYC Full Stack Software Engineer", // <title>
   shortSiteTitle: "Chris Bradshaw", // <title> ending for posts and pages
-  siteDescription: "Javascript Front End Development Blog.",
+  siteDescription: "Full Stack Development Blog.",
   siteUrl: "https://chrisbradshaw.net",
   pathPrefix: "",
   siteImage: "http://www.chrisbradshaw.net/static/avatar.794e757b.jpg",
@@ -15,7 +15,7 @@ module.exports = {
   infoTitle: "Chris Bradshaw",
   infoTitleNote: "Javascript Developer",
   // manifest.json
-  manifestName: "Chris Bradshaw - NYC Front End Web Developer",
+  manifestName: "Chris Bradshaw - NYC Full Stack Software Engineer",
   manifestShortName: "PersonalBlog", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,

@@ -18,7 +18,7 @@ Out of Flatiron School, I was hired by SpinMedia Group as an AdTech Engineer bui
 
 SpinMedia Group was acquired by Billboard Music Group in 2017, and I left to pursue Front End Development work not involving advertisements. I was hired as a freelancer by a Venture Capital firm in Miami, FL to build a single page application, "AirBnB for Marina Slips". I built this project using a Ruby on Rails API on the backend and React.js on the front end. I found further freelance work building an ecommerce site for an emerging CBD brand carried in over 85 stores.
 
-I'm currently pursuing a full time job as a Front End Developer in New York City. This blog and portfolio are to showcase my projects and blog posts demonstrating skills in the lastest Javascript libraries and technology. Check out my skills below, and please email me at [bradshaw.chris@gmail.com](mailto:bradshaw.chris@gmail.com) if you are hiring!
+I'm currently pursuing a full time job as a Full Stack Developer in New York City. This blog and portfolio are to showcase my projects and blog posts demonstrating skills in the lastest Javascript libraries and technology. Check out my skills below, and please email me at [bradshaw.chris@gmail.com](mailto:bradshaw.chris@gmail.com) if you are hiring!
 
 ### Skillset
 
