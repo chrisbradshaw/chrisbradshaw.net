@@ -8,7 +8,7 @@ title: About
 
 ### Bio
 
-Hi, I'm Chris Bradshaw, a web developer from NYC. I've been programming for about 3 years now.
+Hi, I'm Chris Bradshaw, a web developer from NYC.
 
 **_Non-technical background:_** Out of college I worked for Macy's Inc, where I was promoted 6 times in 5 years eventually managing a flagship store of 600+ employees and over $100M/yr sales volume. Identifying a trend towards ecommerce and away from Brick and Mortar, I left Macy's to start my own wholesale liquidation business called Liquid8 Express, which did $144k revenue in the first 11 months before being sold to a larger competitor.
 
