@@ -18,7 +18,9 @@ Out of Flatiron School, I was hired by SpinMedia Group as an AdTech Engineer bui
 
 SpinMedia Group was acquired by Billboard Music Group in 2017, and I left to pursue Front End Development work not involving advertisements. I was hired as a freelancer by a Venture Capital firm in Miami, FL to build a single page application, "AirBnB for Marina Slips". I built this project using a Ruby on Rails API on the backend and React.js on the front end. I found further freelance work building an ecommerce site for an emerging CBD brand carried in over 85 stores.
 
-I'm currently pursuing a full time job as a Full Stack Developer in New York City. This blog and portfolio are to showcase my projects and blog posts demonstrating skills in the lastest Javascript libraries and technology. Check out my skills below, and please email me at [bradshaw.chris@gmail.com](mailto:bradshaw.chris@gmail.com) if you are hiring!
+In August 2018, I started working in my current role at Group Nine Media in Soho, New York City on the Consumer Experience team working on all aspects of G9's owned and operated sites Thrillist, The Dodo, NowThis News and Seeker.
+
+Check out my skills below, and please reach out with any questions or just to chat at[bradshaw.chris@gmail.com](mailto:bradshaw.chris@gmail.com)
 
 ### Skillset
 
@@ -27,8 +29,15 @@ I'm currently pursuing a full time job as a Full Stack Developer in New York Cit
 - Webpack
 - NPM/Yarn/Babel
 - GraphQL
-- CSS/JSS/Styled Components
+- High Level CSS(Flexbox & Grid)/SASS/Styled Components
 - Ruby on Rails/PostgreSQL
-- Git/BASH/JIRA
-- Photoshop
+- Git/BASH/JIRA/Airtable
+- Building projects to design spec from InVision/DSM/Photoshop
+- Storybook/Styled Systems/Style Dictionary/Rebass
+- Analyics - Google Analytics, Permutive, Nielson, comScore
+- Video Advertisting/Analytics - VAST, MOAT, etc.
+- Affliate - Skimlinks, Amazon, etc.
+- Ad Units - Google Double Click for Publishers
+- Google AMP, Facebook Instant Articles and Apple News Development
+- Lerna/Monorepos/Next.js
 - Nginx/HTML/Wordpress/SEO
