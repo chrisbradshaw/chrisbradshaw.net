@@ -20,7 +20,7 @@ SpinMedia Group was acquired by Billboard Music Group in 2017, and I left to pur
 
 In August 2018, I started working in my current role at Group Nine Media in Soho, New York City on the Consumer Experience team working on all aspects of G9's owned and operated sites Thrillist, The Dodo, NowThis News and Seeker.
 
-Check out my skills below, and please reach out with any questions or just to chat at[bradshaw.chris@gmail.com](mailto:bradshaw.chris@gmail.com)
+Check out my skills below, and please reach out with any questions or just to chat at [bradshaw.chris@gmail.com](mailto:bradshaw.chris@gmail.com)
 
 ### Skillset
 
