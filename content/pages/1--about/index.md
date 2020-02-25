@@ -34,7 +34,7 @@ Check out my skills below, and please reach out with any questions or just to ch
 - Git/BASH/JIRA/Airtable
 - Building projects to design spec from InVision/DSM/Photoshop
 - Storybook/Styled Systems/Style Dictionary/Rebass
-- Analyics - Google Analytics, Permutive, Nielson, comScore
+- Analytics - Google Analytics, Permutive, Nielson, comScore
 - Video Advertisting/Analytics - VAST, MOAT, etc.
 - Affliate - Skimlinks, Amazon, etc.
 - Ad Units - Google Double Click for Publishers
