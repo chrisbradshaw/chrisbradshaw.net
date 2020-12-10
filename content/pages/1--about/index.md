@@ -2,7 +2,7 @@
 title: About
 ---
 
-[Resume](https://drive.google.com/open?id=1Ab7ZvsIhtrPPJpLXFBpMQu8xhkttwAUN) |
+[Resume](https://drive.google.com/file/d/1OtKl7VDSqySLjQ-ku82zYNhIvrbP2vpb/view?usp=sharing) |
 [Github](https://github.com/chrisbradshaw) |
 [Portfolio](https://www.chrisbradshaw.net/starters/)
 
