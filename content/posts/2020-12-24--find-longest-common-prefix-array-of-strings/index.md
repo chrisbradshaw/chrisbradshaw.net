@@ -25,4 +25,6 @@ I chose to achieve this with a [while loop](https://developer.mozilla.org/en-US/
 
 I was happy to see that this solution performed well vs all other Leetcode Javascript submissions - ran in 76ms (faster than 94.37%), and utilized 38.9MB memory (less than 81.36%).
 
+**EDIT:** I was thinking about this later in the day, and probably an even more efficient solution would be to not sort the array, and simply start with the first letter in the first string and increase the characters in string on each iteration when checking if each string in the original prefix starts with the phrase. In many circumstances, this would be preferable. It depends on the length of the shortest string and the length of the prefix.
+
 Feel free to propose suggestions to this solution or comment to discuss, and follow me [@\_chrisbradshaw](https://twitter.com/_chrisbradshaw) on Twitter for more great Javascript content.
