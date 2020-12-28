@@ -27,6 +27,7 @@ module.exports = {
   authorSocialLinks: [
     { name: "github", url: "https://github.com/chrisbradshaw" },
     { name: "twitter", url: "https://twitter.com/_chrisbradshaw" },
-    { name: "facebook", url: "http://facebook.com/cbradshaw1" }
+    { name: "facebook", url: "http://facebook.com/cbradshaw1" },
+    { name: "stackOverflow", url: "https://stackoverflow.com/users/8821119/chris-bradshaw" }
   ]
 };

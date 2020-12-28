@@ -7,6 +7,7 @@ import config from "../../../content/meta/config";
 import { ReactComponent as GithubIcon } from "../../images/svg-icons/github.svg";
 import { ReactComponent as FacebookIcon } from "../../images/svg-icons/facebook.svg";
 import { ReactComponent as TwitterIcon } from "../../images/svg-icons/twitter.svg";
+import { ReactComponent as StackOverflowIcon } from "../../images/svg-icons/stack-overflow.svg";
 
 const styles = theme => ({
   social: {
@@ -27,7 +28,10 @@ const styles = theme => ({
     width: "40px",
     height: "40px",
     fill: theme.info.colors.socialIcons,
-    transition: "all .5s"
+    transition: "all .5s",
+    "&.stackOverflow": {
+      width: "25px"
+    }
   }
 });
 
@@ -37,7 +41,8 @@ const Socialcons = props => {
   const icons = {
     twitter: TwitterIcon,
     facebook: FacebookIcon,
-    github: GithubIcon
+    github: GithubIcon,
+    stackOverflow: StackOverflowIcon
   };
 
   return (
@@ -53,7 +58,7 @@ const Socialcons = props => {
             rel="noopener noreferrer"
             title={item.name}
           >
-            <Icon className={classes.svg} />
+            <Icon className={`${classes.svg} ${item.name}`} />
           </a>
         );
       })}

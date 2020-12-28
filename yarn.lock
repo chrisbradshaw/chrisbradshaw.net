@@ -732,7 +732,7 @@ algoliasearch-helper@^2.21.0:
     qs "^6.2.1"
     util "^0.10.3"
 
-algoliasearch@^3.24.0, algoliasearch@^3.24.5:
+algoliasearch@^3.24.0:
   version "3.24.11"
   resolved "https://registry.yarnpkg.com/algoliasearch/-/algoliasearch-3.24.11.tgz#82bb5fd5dd2cc70c993f5500fa54d9f91c62f11b"
   dependencies:
@@ -4864,13 +4864,6 @@ gatsby-module-loader@^1.0.11:
     babel-runtime "^6.26.0"
     loader-utils "^0.2.16"
 
-gatsby-plugin-algolia@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-algolia/-/gatsby-plugin-algolia-0.0.3.tgz#6993421711a1e6e4ffe7fb6f108bead9e77ee608"
-  dependencies:
-    algoliasearch "^3.24.5"
-    lodash.chunk "^4.2.0"
-
 gatsby-plugin-catch-links@^1.0.22:
   version "1.0.22"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-1.0.22.tgz#a51f525afcdf9a1050e284f93f72fc33694c9789"
@@ -7253,10 +7246,6 @@ lodash.bind@^4.1.4:
 lodash.camelcase@^4.3.0:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/lodash.camelcase/-/lodash.camelcase-4.3.0.tgz#b28aa6288a2b9fc651035c7711f65ab6190331a6"
-
-lodash.chunk@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/lodash.chunk/-/lodash.chunk-4.2.0.tgz#66e5ce1f76ed27b4303d8c6512e8d1216e8106bc"
 
 lodash.clonedeep@^4.5.0:
   version "4.5.0"
