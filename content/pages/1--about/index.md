@@ -8,11 +8,9 @@ title: About
 
 ### Bio
 
-Hi, I'm Chris Bradshaw, a web developer from NYC.
+Hi, I'm Chris Bradshaw, a full stack web developer from NYC.
 
-**_Non-technical background:_** Out of college I worked for Macy's Inc, where I was promoted 6 times in 5 years eventually managing a flagship store of 600+ employees and over $100M/yr sales volume. Identifying a trend towards ecommerce and away from Brick and Mortar, I left Macy's to start my own wholesale liquidation business called Liquid8 Express, which did $144k revenue in the first 11 months before being sold to a larger competitor.
-
-**_Technical_**: after spending a lot of money paying people to build websites for my business, I decided to learn how to build them myself. I started taking classes online, applied and was accepted to the Flatiron School, a web immersive bootcamp with at that time, a <7% acceptance rate on 11 Broadway in New York City's financial district (right outside the Charging Bull statue).
+My journey to become a software engineer began when I was building an ecommerce business in 2014. I paid a lot of money for someone else to build my website, and after seeing the bill, I decided to learn how to build them myself. I started taking classes online and instantly found my passion. I applied and was accepted to the Flatiron School, a web immersive bootcamp with at that time, a <7% acceptance rate on 11 Broadway in New York City's financial district (right outside the Charging Bull statue).
 
 Out of Flatiron School, I was hired by SpinMedia Group as an AdTech Engineer building out Javascript advertising units on sites like [Spin](https://www.spin.com), [Vibe](https://www.vibe.com), and [Stereogum](https://www.stereogum.com) reaching over 22M unique visitors per month.
 
@@ -25,6 +23,7 @@ Check out my skills below, and please reach out with any questions or just to ch
 ### Skillset
 
 - Javascript/ES6+
+- Node.js
 - React.js/Redux
 - Webpack
 - NPM/Yarn/Babel
