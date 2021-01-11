@@ -5,7 +5,7 @@ menuTitle: Portfolio
 
 [Resume](https://drive.google.com/file/d/1OtKl7VDSqySLjQ-ku82zYNhIvrbP2vpb/view?usp=sharing) |
 [Github](https://github.com/chrisbradshaw) |
-[About](https://www.chrisbradshaw.net/about/)
+[About](/about)
 
 Check back here for updates on my latest work!
 
