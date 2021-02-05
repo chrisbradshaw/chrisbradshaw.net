@@ -16,7 +16,7 @@ Check back here for updates on my latest work!
 A community for developers and designers to meet and partner on freelance projects, so that each group can focus on their strengths.
 Rails 6 web app featuring Stripe, Paypal, Facebook login, transactions, sessions, functioning Postgres production database.
 
-[Live](https://www.devsmeetdesigners.com)
+[Live](https://devsmeetdesigners.herokuapp.com/)
 
 ![devsmeetdesigners](https://res.cloudinary.com/dgxvjwyhm/image/upload/v1609630835/devs-meet-designers/Screen_Shot_2021-01-02_at_6.38.23_PM.png)
 
